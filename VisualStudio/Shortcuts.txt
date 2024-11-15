@@ -4,3 +4,6 @@ Alt + ^ Opens Editor
 Alt + S search in solution explorer
 Ctrl + - Back
 Ctrl + _ Forward
+Ctrl + < Run tests from session
+Ctrl + > Run context with debug
+Ctrl + Shift + S Save all
