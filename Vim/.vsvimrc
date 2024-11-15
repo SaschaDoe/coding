@@ -1,0 +1,19 @@
+inoremap jk <Esc>l
+vnoremap jk <Esc>
+
+nnoremap <C--> <Nop>
+vnoremap <C--> <Nop>
+inoremap <C--> <Nop>
+
+" General settings
+set ignorecase          " Ignore case in search patterns
+set smartcase           " Override ignorecase if pattern contains uppercase
+set incsearch          " Show search matches while typing
+set hlsearch           " Highlight all search matches
+
+" Visual Studio specific
+set backspace=indent,eol,start  " Make backspace work as expected
+set clipboard=unnamed   " Use system clipboard
+set number             " Show line numbers
+set relativenumber     " Show relative line numbers
+
