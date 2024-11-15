@@ -1,0 +1,3 @@
+Repeat finding command: <;>
+Repeat opposite of finding command: <,>
+Repeat last change command: <.>
